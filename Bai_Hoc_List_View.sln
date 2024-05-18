@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim_Hieu_ListView", "Tim_Hieu_ListView\Tim_Hieu_ListView.csproj", "{5FF48C33-B015-4E03-93B3-774E5BDC93C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tao_ListView_Bang_Code", "Tao_ListView_Bang_Code\Tao_ListView_Bang_Code.csproj", "{5BE3B8CE-81A1-4A4A-9939-0C4738376078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ung_Dung_Tong_Hop", "Ung_Dung_Tong_Hop\Ung_Dung_Tong_Hop.csproj", "{08F6CC50-88FE-41CF-AC7A-DAF1C74B78C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control DateTimePicker", "Control DateTimePicker\Control DateTimePicker.csproj", "{773499EA-B677-4B50-AF2E-B92CCD063ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF48C33-B015-4E03-93B3-774E5BDC93C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF48C33-B015-4E03-93B3-774E5BDC93C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF48C33-B015-4E03-93B3-774E5BDC93C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF48C33-B015-4E03-93B3-774E5BDC93C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE3B8CE-81A1-4A4A-9939-0C4738376078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE3B8CE-81A1-4A4A-9939-0C4738376078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE3B8CE-81A1-4A4A-9939-0C4738376078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE3B8CE-81A1-4A4A-9939-0C4738376078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F6CC50-88FE-41CF-AC7A-DAF1C74B78C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F6CC50-88FE-41CF-AC7A-DAF1C74B78C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F6CC50-88FE-41CF-AC7A-DAF1C74B78C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F6CC50-88FE-41CF-AC7A-DAF1C74B78C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773499EA-B677-4B50-AF2E-B92CCD063ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773499EA-B677-4B50-AF2E-B92CCD063ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773499EA-B677-4B50-AF2E-B92CCD063ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773499EA-B677-4B50-AF2E-B92CCD063ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
